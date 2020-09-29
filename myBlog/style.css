@@ -1,0 +1,19 @@
+body{
+    background-image:url("images/chimkandi2.jpg");
+    background-size: 100% 125%;
+    background-repeat: repeat;
+}
+h1 {
+    background-color:rgb(82, 77, 77);
+    color:rgb(221, 45, 45);
+}
+h2{
+    color: lime;
+}
+h3{
+    color:cyan;
+}
+
+h4{
+    color:yellow;
+}
